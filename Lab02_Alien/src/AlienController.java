@@ -1,7 +1,9 @@
-package it.polito.tdp.alien;
+
 
 import java.net.URL;
 import java.util.ResourceBundle;
+
+import it.polito.tdp.alien.AlienDictionary;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
